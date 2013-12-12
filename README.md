@@ -1,7 +1,7 @@
 DownloadManager
 ===============
 
-A simple PHP download manager created to help musicians manage downloadable content.
+A simple PHP download manager created to help people manage downloadable content. An administrative area is used to create a unique download code that expires after a single use. 
 
 ##Installation
 1. Edit config file
