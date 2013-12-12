@@ -9,6 +9,8 @@ A simple PHP download manager created to help musicians manage downloadable cont
 3. Start using at the address you entered http://server/DownloadManager/admin.php
 
 ###Notes
+This software was made using a modified (and at this point untested) version of software written this year for [http://carltesta.net](Carl Testa’s) album [http://iris.carltesta.net](Iris). Please report back any problems with this code. Thanks!
+
 Bootstrap components are licensed under the MIT license (c) Twitter.
 
 The MIT License (MIT)
