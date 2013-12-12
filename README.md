@@ -6,7 +6,8 @@ A simple PHP download manager created to help people manage downloadable content
 ##Installation
 1. Edit config file
 2. Upload to server
-3. Start using at the address you entered http://server/DownloadManager/admin.php
+3. Import the database schema using the database name you set up in the config file
+4. Start using at the address you entered http://server/DownloadManager/admin.php
 
 ###Notes
 This software was made using a modified (and at this point untested) version of software written this year for [Carl Testa’s](http://carltesta.net) album [Iris](http://iris.carltesta.net). Please report back any problems with this code. Thanks!
